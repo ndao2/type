@@ -1,0 +1,50 @@
+/* Type */
+
+body {
+	background-color: pink;
+	color: black;
+	font-family: sans-serif;
+	line-height: 1;
+    font-size: 1.5em;
+    text-shadow: 2px 2px yellowgreen;
+    text-transform: lowercase;
+    text-indent: 2em;
+     position: relative;
+     transform: rotate(15deg) ;
+
+
+
+  
+}
+h1{ font-size: 4em;
+	position: center;
+	transform: scaleY(50);
+}
+h2{
+	font-weight: 4em;
+	transform: scale(25);
+	color: red 
+	text-transform: uppercase;
+}
+h3{
+	
+	transform-style: flat;
+	position: left;
+	font-family: sans-serif;
+	font size: 5em;
+	transform: scaleX(25);
+
+
+
+}
+ 
+}
+.new-color {
+	color: green;
+}
+.other-font {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+}
